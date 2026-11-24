@@ -1,1 +1,1 @@
-{"description":"The funniest error message a kitchen toaster would show its owner (make.fun entry)","license":"MIT","main":"main.ts","name":"funniest-toaster-error-20261124","private":true,"type":"module","version":"1.0.0"}
+{"description":"The funniest error message a kitchen toaster would show its owner — a make.fun entry","license":"MIT","main":"main.ts","name":"funniest-toaster-error-20261124","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
